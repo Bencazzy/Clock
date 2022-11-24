@@ -1,0 +1,32 @@
+* {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    margin: 50px;
+}
+
+main {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+}
+
+#timeDisplay {
+    font-size: 45px;
+}
+
+footer {
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+a {
+    color: rgb(22, 138, 247);
+}
